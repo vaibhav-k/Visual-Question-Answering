@@ -1,11 +1,6 @@
-# NNFL Project Report
 ## Visual Question Answering
 
 [Training.zip](https://drive.google.com/file/d/1ixhaNP2AgVLrclEJYUpohE_1PO4-Xfj0/view?usp=sharing)
-
-Deepesh Makhijani 2015B1A80764G
-
-Vaibhav Kulshrestha 2015B1A30760G
 
 ### Approach/Model description
 
